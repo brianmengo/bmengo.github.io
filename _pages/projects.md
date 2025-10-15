@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 layout: projects
-permalink: /projects/
+permalink: /categories/
 author_profile: true
 ---
 Projects 
