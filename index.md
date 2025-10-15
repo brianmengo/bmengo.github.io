@@ -35,6 +35,12 @@ author_profile: true
 ---KPLC 
     Attachment 
 ## Projects
----
+---Exlporing Identity and Access Management
+---Using Amazon S3 to build a static website and implementing architectural practices
+---Creating an Amazon RDS Database
+---Creating a VPC Peering connection
+---Creating a highly available and scalable environment using Elastic load balancer and Auto scaling group
+---Building a Switch and Route Newtork using Packet tracer
+---Network Traffic Analysis using TCPDump and Wireshark
 
 
