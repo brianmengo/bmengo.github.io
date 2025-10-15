@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "Contact"
+    url: /contact/
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
   - title: "Lab Challenges"
-    url: /lab challenges/
+    url: /lab-challenges/
   - title: "About"
     url: /about/
