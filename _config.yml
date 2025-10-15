@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Brian Mengo
 email: brianmengo53@gmail.com
-description: >- Security Expert | Cloud Architect
+description: >- 
 twitter_username: brianmengo2
 github_username: brianmengo
 minimal_mistakes_skin: neon
