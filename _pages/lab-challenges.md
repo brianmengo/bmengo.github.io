@@ -1,7 +1,7 @@
 ---
 title: "Lab-Challenges"
 permalink: /tags/
-layout: lab-challenges
+layout: single
 author_profile: true
 ---
 Lab-Projects
