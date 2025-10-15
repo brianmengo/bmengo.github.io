@@ -5,22 +5,21 @@
 layout: home
 author_profile: true
 ---
-#Welcome to my Site
+<h1>Welcome to my Site</h1>
 
-##Brian Mengo
+ <h2>Brian Mengo</h2>
 
 --I am a cloud engineer with diverse and proven knowledge in the design, deployment, maintaining and implementation of scalable, well-         architectured and secure cloud environments, a certified cloud and network security expert.
 
 
+<h2>Eductaion</h2>
 
-##Eductaion
-
-  Dedan Kimathi University 
+ <h3>Dedan Kimathi University</h3>
   ---Bsc. Business Information Technology - April 2021
-  Africa Institute of Development
+  <h3>Africa Institute of Development</h3>
   ---Certification in Computer Packages
 
-##Certifications
+<h2>Certifications</h2>
 
   ---AWS Cloud Practitioner - ALX
   ---AWS Solution Architect -ALX
@@ -28,19 +27,12 @@ author_profile: true
   ---Introduction to Cyber Security- Cisco
   ---Routing and Switching - Cisco
   
-##Work Experience
+<h2>Work Experience</h2>
 
 ---The Nairobi Hospital 
     Security Controller - 2022-Present
 ---KPLC 
     Attachment 
-## Projects
----Exlporing Identity and Access Management
----Using Amazon S3 to build a static website and implementing architectural practices
----Creating an Amazon RDS Database
----Creating a VPC Peering connection
----Creating a highly available and scalable environment using Elastic load balancer and Auto scaling group
----Building a Switch and Route Newtork using Packet tracer
----Network Traffic Analysis using TCPDump and Wireshark
+
 
 
