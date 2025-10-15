@@ -6,8 +6,8 @@ author_profile: true
 ---
 <h1>Contact Details<</h1>
 
-Brian Mengo
-Kikuyu Road
-Nairobi, Kenya
-0702647431
-brianmengo53@gmail.com
+Brian Mengo <br>
+Kikuyu Road<br>
+Nairobi, Kenya <br>
+0702647431<br>
+brianmengo53@gmail.com<br>
