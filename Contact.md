@@ -4,7 +4,7 @@ permalink: /contact/
 layout: posts
 author_profile: true
 ---
-<h1>Contact Details<</h1>
+<h1>Contact Details</h1>
 
 Brian Mengo <br>
 Kikuyu Road<br>
